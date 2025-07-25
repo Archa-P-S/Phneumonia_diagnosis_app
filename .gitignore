@@ -1,0 +1,23 @@
+# === FLUTTER IGNORES ===
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+
+# === PYTHON/FLASK IGNORES ===
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.joblib
+env/
+venv/
+.DS_Store
+
+# === IDEs & SYSTEM FILES ===
+.vscode/
+.idea/
+*.log
